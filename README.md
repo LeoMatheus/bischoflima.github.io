@@ -134,9 +134,9 @@ Obs: Se o aluno preencher um item e for comprovado que ele não fez ou não sabe
 
 #### Datas:
 
-**Wireframes do sistema:** Até 22/09/2020
+Wireframes do sistema: Até 22/09/2020
 
-**Postagem e Entrega:** Até 22/11/2020.
+Postagem e Entrega: Até 22/11/2020.
 
 #### Defesa: 
 
@@ -147,7 +147,7 @@ Os alunos que não tem apresentação no dia, estão dispensados da aula.<br>
 As defesas poderão ser antecipadas caso o tempo destinado não seja totalmente ocupado ou ocorra a desistência de alguma equipe.<br>
 A nota será atribuída à equipe, mas as perguntas serão direcionadas a cada membro. As perguntas serão direcionada a um membro até ele acertar ou até o limite de 3 respostas erradas, quando a nota será definida como ZERO à equipe. Também, a nota do trabalho será penalizada proporcionalmente ao número de respostas incorretas. Portanto, a dupla precisa entender de todo o projeto para não ser penalizada.<br>
 
-##### Notas:
+#### Notas:
 
 * 60% da nota final da disciplina
 * Wireframes: 10%
