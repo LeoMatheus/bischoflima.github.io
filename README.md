@@ -1,7 +1,7 @@
 # Sistema para agendamento de serviços de maquiagem
 #### projeto-final-web2
-A proposta deste projeto é uma sequencia de avaliações da disciplina de web 2 com ênfase no uso de ECMA Script 6 para tornar uma página HTML interativa.<br><br>
-Será utilizado como base um estabelecimento que realiza procedimentos de maquiagem, a fim de automatizar o agendamento e também facilitar para o cliente o conhecimento do trabalho do(a) profissional.
+   A proposta deste projeto é uma sequencia de avaliações da disciplina de web 2 com ênfase no uso de ECMA Script 6 para tornar uma página HTML interativa.<br><br>
+   Será utilizado como base um estabelecimento que realiza procedimentos de maquiagem, a fim de automatizar o agendamento e também facilitar para o cliente o conhecimento do trabalho do(a) profissional.
 
 
 ## Exigências Gerais:
@@ -21,9 +21,9 @@ Será utilizado como base um estabelecimento que realiza procedimentos de maquia
 
 ## Exigências Específicas:
 
-O sistema deve ser implementado contendo as funcionalidades referentes aos tópicos apresentados abaixo. Cada tópico será avaliado separadamente. Para o aluno obter nota máxima em cada tópico, ele precisa utilizar todas as estruturas listadas nos respectivos sub-tópicos. Também serão consideradas as **boas práticas de programação em JavaScript, uso adequado de notações e conceitos aprendidos**, organização do código e criatividade. Ainda, serão avaliados os wireframes do sistema, os quais deverão ser entregues em data definida antes da entrega do projeto.<br>
+   O sistema deve ser implementado contendo as funcionalidades referentes aos tópicos apresentados abaixo. Cada tópico será avaliado separadamente. Para o aluno obter nota máxima em cada tópico, ele precisa utilizar todas as estruturas listadas nos respectivos sub-tópicos. Também serão consideradas as **boas práticas de programação em JavaScript, uso adequado de notações e conceitos aprendidos**, organização do código e criatividade. Ainda, serão avaliados os wireframes do sistema, os quais deverão ser entregues em data definida antes da entrega do projeto.<br>
 
-Implementar os itens (tópicos) apresentados a seguir, com exceção dos itens riscados, os quais não foram vistos em sala de aula:
+   Implementar os itens (tópicos) apresentados a seguir, com exceção dos itens riscados, os quais não foram vistos em sala de aula:
 
 ### Qualidade do código
 - [ ] Usar um Style Guide - apresentar o uso de pelo menos 10 regras do style escolhido (sugerido AirBnb)
@@ -128,24 +128,22 @@ Implementar os itens (tópicos) apresentados a seguir, com exceção dos itens r
 
 #### Checklist:
 
-Preencher o checklist no README.md do seu repositório do GitHub tal como consta no projeto vixe-quebrou-js.<br>
-
-Obs: Se o aluno preencher um item e for comprovado que ele não fez ou não sabe explicar, será penalizado com a retirada de nota deste e de outro item feito.
+* Preencher o checklist no README.md do seu repositório do GitHub tal como consta no projeto vixe-quebrou-js.<br>
+* **Obs:** Se o aluno preencher um item e for comprovado que ele não fez ou não sabe explicar, será penalizado com a retirada de nota deste e de outro item feito.
 
 #### Datas:
 
-Wireframes do sistema: Até 22/09/2020
-
-Postagem e Entrega: Até 22/11/2020.
+* Wireframes do sistema: Até 22/09/2020
+* Postagem e Entrega: Até 22/11/2020.
 
 #### Defesa: 
 
-Agendar a defesa para 22/11/2020 ou 23/11/2020 na planilha disponível em http://bit.ly/35Ev4vu<br>
-Tempo de até 10 minutos de apresentação e depois mais o tempo para arguição da banca ou Professor<br>
-Uma equipe não poderá assistir a defesa de outra.<br>
-Os alunos que não tem apresentação no dia, estão dispensados da aula.<br>
-As defesas poderão ser antecipadas caso o tempo destinado não seja totalmente ocupado ou ocorra a desistência de alguma equipe.<br>
-A nota será atribuída à equipe, mas as perguntas serão direcionadas a cada membro. As perguntas serão direcionada a um membro até ele acertar ou até o limite de 3 respostas erradas, quando a nota será definida como ZERO à equipe. Também, a nota do trabalho será penalizada proporcionalmente ao número de respostas incorretas. Portanto, a dupla precisa entender de todo o projeto para não ser penalizada.<br>
+* Agendar a defesa para 22/11/2020 ou 23/11/2020 na planilha disponível em http://bit.ly/35Ev4vu
+* Tempo de até 10 minutos de apresentação e depois mais o tempo para arguição da banca ou Professor
+* Uma equipe não poderá assistir a defesa de outra.
+* Os alunos que não tem apresentação no dia, estão dispensados da aula.
+* As defesas poderão ser antecipadas caso o tempo destinado não seja totalmente ocupado ou ocorra a desistência de alguma equipe.
+* A nota será atribuída à equipe, mas as perguntas serão direcionadas a cada membro. As perguntas serão direcionada a um membro até ele acertar ou até o limite de 3 respostas erradas, quando a nota será definida como ZERO à equipe. Também, a nota do trabalho será penalizada proporcionalmente ao número de respostas incorretas. Portanto, a dupla precisa entender de todo o projeto para não ser penalizada.
 
 #### Notas:
 
