@@ -114,10 +114,10 @@
 - [ ] Manipulação do conteúdo de um input e div usando jQuery
 - [ ] Aplicar um plugin do jQuery (por exemplo, jQuery Mask Plugin)
 
-### Manipular componentes do HTML5 API
-- [ ] map
-- [ ] online ou visibilidade
-- [ ] audio ou video
+### ~~Manipular componentes do HTML5 API~~
+- [ ] ~~map~~
+- [ ] ~~online ou visibilidade~~
+- [ ] ~~audio ou video~~
 
 ### Web Storage
 - [ ] LocalStorage ou SessionStorage
