@@ -21,7 +21,7 @@ Será utilizado como base um estabelecimento que realiza procedimentos de maquia
 
 ## Exigências Específicas:
 
-O sistema deve ser implementado contendo as funcionalidades referentes aos tópicos apresentados abaixo. Cada tópico será avaliado separadamente. Para o aluno obter nota máxima em cada tópico, ele precisa utilizar todas as estruturas listadas nos respectivos sub-tópicos. Também serão consideradas as **boas práticas de programação em JavaScript, uso adequado de notações e conceitos aprendidos**, organização do código e criatividade. Ainda, serão avaliados os wireframes do sistema, os quais deverão ser entregues em data definida antes da entrega do projeto.<br><br>
+O sistema deve ser implementado contendo as funcionalidades referentes aos tópicos apresentados abaixo. Cada tópico será avaliado separadamente. Para o aluno obter nota máxima em cada tópico, ele precisa utilizar todas as estruturas listadas nos respectivos sub-tópicos. Também serão consideradas as **boas práticas de programação em JavaScript, uso adequado de notações e conceitos aprendidos**, organização do código e criatividade. Ainda, serão avaliados os wireframes do sistema, os quais deverão ser entregues em data definida antes da entrega do projeto.<br>
 
 Implementar os itens (tópicos) apresentados a seguir, com exceção dos itens riscados, os quais não foram vistos em sala de aula:
 
