@@ -28,13 +28,13 @@
 
 <strong>Qualidade do código</strong>
 <ul style="list-style-type:none">
-  - [ ] <li>Usar um Style Guide - apresentar o uso de pelo menos 10 regras do style escolhido (sugerido AirBnb)</ul>
-  - [ ] <li>Usar um lint - mostrar a correção de pelo menos 5 problemas informados pelo lint (sugerido JSHint - usar o arquivo .jshintrc disponível no moodle)</ul>
-  - [ ] <li>Usar strict mode</ul>
-  - [ ] <li>Usar Module Pattern</ul>
-  - [ ] <li>Usar pasta assets e subpastas resources e libraries para organizar o código</ul>
-  - [ ] <li>Usar let ou const ao invés de var</ul>
-  - [ ] <li>Nomes de arquivos minúsculos e separados por hífen (dashed-case)</ul>
+- [ ] <li>Usar um Style Guide - apresentar o uso de pelo menos 10 regras do style escolhido (sugerido AirBnb)</ul>
+- [ ] <li>Usar um lint - mostrar a correção de pelo menos 5 problemas informados pelo lint (sugerido JSHint - usar o arquivo .jshintrc disponível no moodle)</ul>
+- [ ] <li>Usar strict mode</ul>
+- [ ] <li>Usar Module Pattern</ul>
+- [ ] <li>Usar pasta assets e subpastas resources e libraries para organizar o código</ul>
+- [ ] <li>Usar let ou const ao invés de var</ul>
+- [ ] <li>Nomes de arquivos minúsculos e separados por hífen (dashed-case)</ul>
 </ul>
 
 <strong>Caixas de Diálogo</strong>
@@ -44,7 +44,7 @@
   - [ ] <li>confirm</li>
 </ul>
   
-<strong>Temporizadores<strong>
+<strong>Temporizadores</strong>
 setInterval
 setTimeout
   
