@@ -58,7 +58,7 @@ Implementar os itens (tópicos) apresentados a seguir, com exceção dos itens r
 - [ ] Evento de teclado - usar charCode ou keyCode
 - [ ] Eventos de formulário - onfocus e onblur
 - [ ] Imprimir alguma propriedade do objeto event recebido como parâmetro
-~~- [ ] Propagação de eventos no modelo bolha (usar target e currentTarget, ou seja, disparar o evento em um elemento filho e capturar em um elemento pai)~~
+- [ ] ~~Propagação de eventos no modelo bolha (usar target e currentTarget, ou seja, disparar o evento em um elemento filho e capturar em um elemento pai)~~
 
 ### Acesso aos elementos DOM do HTML
 - [ ] Via referência DOM pelo id do elemento HTML
@@ -96,12 +96,12 @@ Implementar os itens (tópicos) apresentados a seguir, com exceção dos itens r
 - [ ] Usar herança prototipal nativa ou herança de classes do ES6
 
 ### ~~Canvas~~
-~~- [ ] Desenho de caminho ou arco~~
-~~- [ ] Desenho de texto ou imagem~~
+- [ ] ~~Desenho de caminho ou arco~~
+- [ ] ~~Desenho de texto ou imagem~~
 
 ### ~~Animação~~
-~~- [ ] Por meio da manipulação do vetor images~~
-~~- [ ] Por meio da manipulação do canvas~~
+- [ ] ~~Por meio da manipulação do vetor images~~
+- [ ] ~~Por meio da manipulação do canvas~~
 
 ### jQuery
 - [ ] Uso de seletores CSS - id, classe e tag
@@ -128,7 +128,7 @@ Implementar os itens (tópicos) apresentados a seguir, com exceção dos itens r
 
 ##### Checklist:
 
-Preencher o checklist no README.md do seu repositório do GitHub tal como consta no projeto vixe-quebrou-js.
+Preencher o checklist no README.md do seu repositório do GitHub tal como consta no projeto vixe-quebrou-js.<br>
 
 Obs: Se o aluno preencher um item e for comprovado que ele não fez ou não sabe explicar, será penalizado com a retirada de nota deste e de outro item feito.
 
@@ -139,15 +139,15 @@ Obs: Se o aluno preencher um item e for comprovado que ele não fez ou não sabe
 
 ##### Defesa: 
 
-Agendar a defesa para 22/11/2020 ou 23/11/2020 na planilha disponível em http://bit.ly/35Ev4vu
-Tempo de até 10 minutos de apresentação e depois mais o tempo para arguição da banca ou Professor
-Uma equipe não poderá assistir a defesa de outra.
-Os alunos que não tem apresentação no dia, estão dispensados da aula.
-As defesas poderão ser antecipadas caso o tempo destinado não seja totalmente ocupado ou ocorra a desistência de alguma equipe.
-A nota será atribuída à equipe, mas as perguntas serão direcionadas a cada membro. As perguntas serão direcionada a um membro até ele acertar ou até o limite de 3 respostas erradas, quando a nota será definida como ZERO à equipe. Também, a nota do trabalho será penalizada proporcionalmente ao número de respostas incorretas. Portanto, a dupla precisa entender de todo o projeto para não ser penalizada.
+Agendar a defesa para 22/11/2020 ou 23/11/2020 na planilha disponível em http://bit.ly/35Ev4vu<br>
+Tempo de até 10 minutos de apresentação e depois mais o tempo para arguição da banca ou Professor<br>
+Uma equipe não poderá assistir a defesa de outra.<br>
+Os alunos que não tem apresentação no dia, estão dispensados da aula.<br>
+As defesas poderão ser antecipadas caso o tempo destinado não seja totalmente ocupado ou ocorra a desistência de alguma equipe.<br>
+A nota será atribuída à equipe, mas as perguntas serão direcionadas a cada membro. As perguntas serão direcionada a um membro até ele acertar ou até o limite de 3 respostas erradas, quando a nota será definida como ZERO à equipe. Também, a nota do trabalho será penalizada proporcionalmente ao número de respostas incorretas. Portanto, a dupla precisa entender de todo o projeto para não ser penalizada.<br>
 
 ##### Notas:
 
-60% da nota final da disciplina
-Wireframes: 10%
-Sistema: 90%
+* 60% da nota final da disciplina
+* Wireframes: 10%
+* Sistema: 90%
