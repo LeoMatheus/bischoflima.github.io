@@ -126,18 +126,18 @@ Implementar os itens (tópicos) apresentados a seguir, com exceção dos itens r
 - [ ] Implementação funcional (basta fazer funcionar uma requisição) do backend em ExpressJS na plataforma Node e requisições AJAX.
 
 
-##### Checklist:
+#### Checklist:
 
 Preencher o checklist no README.md do seu repositório do GitHub tal como consta no projeto vixe-quebrou-js.<br>
 
 Obs: Se o aluno preencher um item e for comprovado que ele não fez ou não sabe explicar, será penalizado com a retirada de nota deste e de outro item feito.
 
-##### Datas:
+#### Datas:
 
 **Wireframes do sistema:** Até 22/09/2020
 **Postagem e Entrega:** Até 22/11/2020.
 
-##### Defesa: 
+#### Defesa: 
 
 Agendar a defesa para 22/11/2020 ou 23/11/2020 na planilha disponível em http://bit.ly/35Ev4vu<br>
 Tempo de até 10 minutos de apresentação e depois mais o tempo para arguição da banca ou Professor<br>
