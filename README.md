@@ -135,6 +135,7 @@ Obs: Se o aluno preencher um item e for comprovado que ele não fez ou não sabe
 #### Datas:
 
 **Wireframes do sistema:** Até 22/09/2020
+
 **Postagem e Entrega:** Até 22/11/2020.
 
 #### Defesa: 
