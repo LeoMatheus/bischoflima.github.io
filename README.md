@@ -1,10 +1,10 @@
-# Sistema para agendamento de serviços de maquiagem
-#### projeto-final-web2
+# Episcopus Meterologia <br> um app simples para consultas climáticas
+### projeto-final-web2
    A proposta deste projeto é uma sequencia de avaliações da disciplina de web 2 com ênfase no uso de ECMA Script 6 para tornar uma página HTML interativa.<br><br>
-   Será utilizado como base um estabelecimento que realiza procedimentos de maquiagem, a fim de automatizar o agendamento e também facilitar para o cliente o conhecimento do trabalho do(a) profissional.
+#### Será utilizado como base a api de dados climáticos da AccuWeather e tratar os dados recebidos a fim de gerar uma apresentação dos dados em uma página web dinâmica usando Java Script ES6.
 
 
-## Exigências Gerais:
+## Exigências Gerais propostas pela disciplina:
 
  * O conteúdo do site deve ser pessoal;
  * O site deverá possuir informações que os acadêmicos julgarem interessantes;
