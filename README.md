@@ -27,6 +27,19 @@
 
 ### Qualidade do código
 - [ ] Usar um Style Guide - apresentar o uso de pelo menos 10 regras do style escolhido (sugerido AirBnb)
+   - [ ] Usar sintaxe literal para objetos
+   - [ ] Usar sintaxe literal para arrays
+   - [ ] Aspas simples para strings
+   - [ ] Ponto para acessar atributos
+   - [ ] Variaveis sempre no topo do escopo em que se encontram
+   - [ ] Use === e !== ao invés de == e !=
+   - [ ] linha em branco no final do arquivo
+   - [ ] linha em branco após o final de cada declaração
+   - [ ] ponto e vírgula ao final de cada declaração
+   - [ ] Não use apenas um caracter, seja descritivo
+   - [ ] Use camelCase quando for nomear objetos, funções e instâncias
+   - [ ] Use PascalCase quando for nomear construtores ou classes.
+   - [ ] Use um underscore _ como primeiro caracter em propriedades privadas
 - [ ] Usar um lint - mostrar a correção de pelo menos 5 problemas informados pelo lint (sugerido JSHint - usar o arquivo .jshintrc disponível no moodle)
 - [ ] Usar strict mode
 - [ ] Usar Module Pattern
