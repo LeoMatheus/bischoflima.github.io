@@ -1,0 +1,41 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+  padding-top: 1em;
+}
+
+h4 {
+  margin-bottom: 1em;
+}
+
+.text-logo {
+  margin: 0 0 0 1em;
+  font-size: 3em;
+}
+
+@media (max-width: 668px) {
+  .menu {
+    text-align: center;
+  }
+  .logo-img {
+    width: 1.2em;
+  }
+  .text-logo {
+    margin: 0;
+    font-size: 2em;
+  }
+}
+
+@media (max-width: 249px) {
+  .logo-img {
+    width: 1.0em;
+  }
+  .text-logo {
+    font-size: 1.5em;
+  }
+}
