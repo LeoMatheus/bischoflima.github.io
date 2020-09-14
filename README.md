@@ -1,4 +1,4 @@
-# Episcopus Meterologia <br> um app simples para consultas climáticas
+# Episcopus Meteorologia <br> um app simples para consultas climáticas
 ### projeto-final-web2
    A proposta deste projeto é uma sequencia de avaliações da disciplina de web 2 com ênfase no uso de ECMA Script 6 para tornar uma página HTML interativa.<br><br>
 #### Será utilizado como base a api de dados climáticos da AccuWeather e tratar os dados recebidos a fim de gerar uma apresentação dos dados em uma página web dinâmica usando Java Script ES6.
