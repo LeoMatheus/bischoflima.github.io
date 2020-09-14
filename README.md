@@ -40,12 +40,12 @@
    - [ ] Use camelCase quando for nomear objetos, funções e instâncias
    - [ ] Use PascalCase quando for nomear construtores ou classes.
    - [ ] Use um underscore _ como primeiro caracter em propriedades privadas
-- [ ] Usar um lint - mostrar a correção de pelo menos 5 problemas informados pelo lint (sugerido JSHint - usar o arquivo .jshintrc disponível no moodle)
+- [x] Usar um lint - mostrar a correção de pelo menos 5 problemas informados pelo lint (sugerido JSHint - usar o arquivo .jshintrc disponível no moodle)
 - [ ] Usar strict mode
 - [ ] Usar Module Pattern
-- [ ] Usar pasta assets e subpastas resources e libraries para organizar o código
-- [ ] Usar let ou const ao invés de var
-- [ ] Nomes de arquivos minúsculos e separados por hífen (dashed-case)
+- [x] Usar pasta assets e subpastas resources e libraries para organizar o código
+- [x] Usar let ou const ao invés de var
+- [x] Nomes de arquivos minúsculos e separados por hífen (dashed-case)
 
 ### Caixas de Diálogo
   - [ ] prompt
@@ -118,7 +118,7 @@
 - [ ] ~~Por meio da manipulação do canvas~~
 
 ### jQuery
-- [ ] Uso de seletores CSS - id, classe e tag
+- [x] Uso de seletores CSS - id, classe e tag
 - [ ] Uso de seletores hierárquicos estáticos - ancestral/descendente, pai/filho, anterior/próximo
 - [ ] Uso de seletores hierárquicos dinâmicos - parent/children/next
 
