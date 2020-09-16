@@ -1,5 +1,6 @@
 let factoryUsuario = (email, nome, senha, telefone, cep) => {
     'use strict';
+
     return {
         nome: nome,
         email: email,
@@ -7,6 +8,7 @@ let factoryUsuario = (email, nome, senha, telefone, cep) => {
         telefone: telefone,
         cep: cep
     };
+    
 };
 
 

@@ -1,4 +1,4 @@
-function validacao(){
+let validacao = function () {
     'use strict';
     return false;
-}
+};
