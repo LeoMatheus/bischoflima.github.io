@@ -41,7 +41,7 @@
    - [ ] Use PascalCase quando for nomear construtores ou classes.
    - [ ] Use um underscore _ como primeiro caracter em propriedades privadas
 - [X] Usar um lint - mostrar a correção de pelo menos 5 problemas informados pelo lint (sugerido JSHint - usar o arquivo .jshintrc disponível no moodle)
-- [ ] Usar strict mode
+- [x] Usar strict mode
 - [ ] Usar Module Pattern
 - [x] Usar pasta assets e subpastas resources e libraries para organizar o código
 - [x] Usar let ou const ao invés de var
@@ -61,13 +61,13 @@
 - [ ] Função anônima sem argumento
 - [ ] Função anônima com retorno
 - [ ] Função auto-executável
-- [ ] Função com nome
+- [x] Função com nome
 - [ ] Função aninhada/local - declarar uma função dentro de outra
 - [ ] Passagem de uma função como parâmetro
 - [ ] Função Flecha - Arrow Function
 
 ### Eventos
-- [ ] Evento de carregamento do documento - onload
+- [x] Evento de carregamento do documento - onload
 - [ ] Evento de movimento do mouse
 - [ ] Evento de teclado - usar charCode ou keyCode
 - [ ] Eventos de formulário - onfocus e onblur
@@ -76,13 +76,13 @@
 
 ### Acesso aos elementos DOM do HTML
 - [ ] Via referência DOM pelo id do elemento HTML
-- [ ] Via getElementByID()
+- [x] Via getElementByID()
 - [ ] Via getElementsByName()
 - [ ] Via getElementsByTagName()
 - [ ] Via seletores CSS usados na função querySelector() ou querySelectorAll()
 
 ### Tratadores de Evento
-- [ ] Especificar o tratador de evento inline
+- [x] Especificar o tratador de evento inline
 - [ ] Especificar o tratador de evento no carregamento da página HTML no modo tradicional - no onload
 - [ ] Especificar o tratador de evento no carregamento da página HTML com a função addEventListener - no onload
 - [ ] Usar o operador this em funções tratadoras de eventos.
