@@ -42,7 +42,7 @@
    - [x] Use um underscore _ como primeiro caracter em propriedades privadas
 - [X] Usar um lint - mostrar a correção de pelo menos 5 problemas informados pelo lint (sugerido JSHint - usar o arquivo .jshintrc disponível no moodle)
 - [x] Usar strict mode
-- [ ] Usar Module Pattern
+- [x] Usar Module Pattern
 - [x] Usar pasta assets e subpastas resources e libraries para organizar o código
 - [x] Usar let ou const ao invés de var
 - [x] Nomes de arquivos minúsculos e separados por hífen (dashed-case)
@@ -58,9 +58,9 @@
   
 ### Funções
 - [x] Função anônima com argumento
-- [ ] Função anônima sem argumento
+- [x] Função anônima sem argumento
 - [x] Função anônima com retorno
-- [ ] Função auto-executável
+- [x] Função auto-executável
 - [x] Função com nome
 - [ ] Função aninhada/local - declarar uma função dentro de outra
 - [ ] Passagem de uma função como parâmetro
@@ -82,7 +82,7 @@
 - [ ] Via seletores CSS usados na função querySelector() ou querySelectorAll()
 
 ### Tratadores de Evento
-- [x] Especificar o tratador de evento inline
+- [ ] Especificar o tratador de evento inline
 - [ ] Especificar o tratador de evento no carregamento da página HTML no modo tradicional - no onload
 - [ ] Especificar o tratador de evento no carregamento da página HTML com a função addEventListener - no onload
 - [ ] Usar o operador this em funções tratadoras de eventos.
