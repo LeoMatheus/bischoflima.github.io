@@ -88,7 +88,7 @@
 - [ ] Usar o operador this em funções tratadoras de eventos.
 
 ### Formulário
-- [ ] Validação de formulário com onsubmit usando os métodos tradicionais
+- [x] Validação de formulário com onsubmit usando os métodos tradicionais
 - [ ] Validação de formulário com HTML5 API
     - [ ] Customizar as mensagens nos balões de mensagem
     - [ ] Usar os atributos de validação dos inputs
