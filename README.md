@@ -49,7 +49,7 @@
 
 ### Caixas de Diálogo
   - [ ] prompt
-  - [ ] alert
+  - [x] alert
   - [ ] confirm
   
 ### Temporizadores
@@ -62,7 +62,7 @@
 - [x] Função anônima com retorno
 - [x] Função auto-executável
 - [x] Função com nome
-- [ ] Função aninhada/local - declarar uma função dentro de outra
+- [x] Função aninhada/local - declarar uma função dentro de outra
 - [ ] Passagem de uma função como parâmetro
 - [x] Função Flecha - Arrow Function
 
@@ -70,7 +70,7 @@
 - [ ] Evento de carregamento do documento - onload
 - [ ] Evento de movimento do mouse
 - [x] Evento de teclado - usar charCode ou keyCode
-- [ ] Eventos de formulário - onfocus e onblur
+- [x] Eventos de formulário - onfocus e onblur
 - [x] Imprimir alguma propriedade do objeto event recebido como parâmetro
 - [ ] ~~Propagação de eventos no modelo bolha (usar target e currentTarget, ou seja, disparar o evento em um elemento filho e capturar em um elemento pai)~~
 
