@@ -69,9 +69,9 @@
 ### Eventos
 - [ ] Evento de carregamento do documento - onload
 - [ ] Evento de movimento do mouse
-- [ ] Evento de teclado - usar charCode ou keyCode
+- [x] Evento de teclado - usar charCode ou keyCode
 - [ ] Eventos de formulário - onfocus e onblur
-- [ ] Imprimir alguma propriedade do objeto event recebido como parâmetro
+- [x] Imprimir alguma propriedade do objeto event recebido como parâmetro
 - [ ] ~~Propagação de eventos no modelo bolha (usar target e currentTarget, ou seja, disparar o evento em um elemento filho e capturar em um elemento pai)~~
 
 ### Acesso aos elementos DOM do HTML
@@ -79,7 +79,7 @@
 - [x] Via getElementByID()
 - [ ] Via getElementsByName()
 - [ ] Via getElementsByTagName()
-- [ ] Via seletores CSS usados na função querySelector() ou querySelectorAll()
+- [x] Via seletores CSS usados na função querySelector() ou querySelectorAll()
 
 ### Tratadores de Evento
 - [ ] Especificar o tratador de evento inline
