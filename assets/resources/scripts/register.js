@@ -40,11 +40,11 @@ tagSenha2.onblur = () => {
 
 };
 
-
-let validacao = function () {
+document.querySelector('#formulario').onsubmit = function (event) {
     'use strict';
 
     console.log(tagEmail.value, tagNome.value, tagSenha1.value, tagSenha2.value, tagTelefone.value);
-    return false;
+    
+    event.preventDefault();
 };
 
