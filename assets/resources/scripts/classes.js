@@ -8,7 +8,7 @@ let factoryUsuario = (email, nome, senha, telefone, cep) => {
         telefone: telefone,
         cep: cep
     };
-    
+
 };
 
 
@@ -29,9 +29,11 @@ class BDUsuario {
 
     gravar(usuario) {
         'use strict';
-        let id = this.getProximoId();
-        localStorage.setItem('id_cadastro', id);
-        localStorage.setItem(id, JSON.stringify(usuario));
+        if (confirm('Deseja mesmo salvar os dados? ')) {
+            let id = this.getProximoId();
+            localStorage.setItem('id_cadastro', id);
+            localStorage.setItem(id, JSON.stringify(usuario));
+        }
     }
 
     recuperarTodosRegistros() {
