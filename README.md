@@ -25,7 +25,7 @@
 
    Implementar os itens (tópicos) apresentados a seguir, com exceção dos itens riscados, os quais não foram vistos em sala de aula:
 
-## Avaliação 1
+# Avaliação 1
 
 ### Caixas de Diálogo
   - [x] prompt
@@ -78,7 +78,7 @@
 - [x] Criar objetos a partir da definição de classes do ES6
 - [ ] Usar herança prototipal nativa ou herança de classes do ES6
 
-## Avaliação 2
+# Avaliação 2
 
 ### Qualidade do código
 - [x] Usar um Style Guide - apresentar o uso de pelo menos 10 regras do style escolhido (sugerido AirBnb)
@@ -121,7 +121,7 @@
 - [ ] ~~Por meio da manipulação do vetor images~~
 - [ ] ~~Por meio da manipulação do canvas~~
 
-## Avaliação 3
+# Avaliação 3
 
 ### jQuery
 - [x] Uso de seletores CSS - id, classe e tag
