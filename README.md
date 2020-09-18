@@ -47,7 +47,7 @@
 - [x] Função Flecha - Arrow Function
 
 ### Eventos
-- [ ] Evento de carregamento do documento - onload
+- [x] Evento de carregamento do documento - onload
 - [ ] Evento de movimento do mouse
 - [x] Evento de teclado - usar charCode ou keyCode
 - [x] Eventos de formulário - onfocus e onblur
@@ -76,7 +76,7 @@
 ### Objetos
 - [x] Criar objeto usando função construtora ou notação literal
 - [x] Criar objetos a partir da definição de classes do ES6
-- [ ] Usar herança prototipal nativa ou herança de classes do ES6
+- [x] Usar herança prototipal nativa ou herança de classes do ES6
 
 # Avaliação 2
 

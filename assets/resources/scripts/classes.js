@@ -1,16 +1,19 @@
-let factoryUsuario = (email, nome, senha, telefone, cep) => {
-    'use strict';
+class Pessoa {
+    constructor(nome) {
+        this._nome = nome;
+    }
 
-    return {
-        nome: nome,
-        email: email,
-        senha: senha,
-        telefone: telefone,
-        cep: cep
-    };
-
-};
-
+}
+class Usuario extends Pessoa {
+    constructor(email, nome, senha, telefone, cep) {
+        super(nome);
+        email = email;
+        senha = senha;
+        telefone = telefone;
+        cep = cep;
+    }
+    
+}
 
 class BDUsuario {
     constructor() {
