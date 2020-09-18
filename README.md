@@ -25,32 +25,12 @@
 
    Implementar os itens (tópicos) apresentados a seguir, com exceção dos itens riscados, os quais não foram vistos em sala de aula:
 
-### Qualidade do código
-- [x] Usar um Style Guide - apresentar o uso de pelo menos 10 regras do style escolhido (sugerido AirBnb)
-   - [x] Usar sintaxe literal para objetos
-   - [x] Usar sintaxe literal para arrays
-   - [x] Aspas simples para strings
-   - [x] Ponto para acessar atributos
-   - [x] Variaveis sempre no topo do escopo em que se encontram
-   - [x] Use === e !== ao invés de == e !=
-   - [x] linha em branco no final do arquivo
-   - [x] linha em branco após o final de cada declaração
-   - [x] ponto e vírgula ao final de cada declaração
-   - [x] Não use apenas um caracter, seja descritivo
-   - [x] Use camelCase quando for nomear objetos, funções e instâncias
-   - [x] Use PascalCase quando for nomear construtores ou classes.
-   - [x] Use um underscore _ como primeiro caracter em propriedades privadas
-- [X] Usar um lint - mostrar a correção de pelo menos 5 problemas informados pelo lint (sugerido JSHint - usar o arquivo .jshintrc disponível no moodle)
-- [x] Usar strict mode
-- [x] Usar Module Pattern
-- [x] Usar pasta assets e subpastas resources e libraries para organizar o código
-- [x] Usar let ou const ao invés de var
-- [x] Nomes de arquivos minúsculos e separados por hífen (dashed-case)
+<span style="color: #8793F5">
 
 ### Caixas de Diálogo
-  - [ ] prompt
+  - [x] prompt
   - [x] alert
-  - [ ] confirm
+  - [x] confirm
   
 ### Temporizadores
 - [ ] setInterval
@@ -82,10 +62,46 @@
 - [x] Via seletores CSS usados na função querySelector() ou querySelectorAll()
 
 ### Tratadores de Evento
-- [ ] Especificar o tratador de evento inline
+- [x] Especificar o tratador de evento inline
 - [ ] Especificar o tratador de evento no carregamento da página HTML no modo tradicional - no onload
 - [ ] Especificar o tratador de evento no carregamento da página HTML com a função addEventListener - no onload
-- [ ] Usar o operador this em funções tratadoras de eventos.
+- [x] Usar o operador this em funções tratadoras de eventos.
+
+### Objetos Nativos
+- [ ] Usar pelo menos 3 métodos de manipulação de array
+- [ ] Usar laço de repetição (for..in ou for..of ou forEach)
+- [ ] Usar pelo menos 3 métodos para manipulação de string
+- [x] String Template
+
+### Objetos
+- [x] Criar objeto usando função construtora ou notação literal
+- [x] Criar objetos a partir da definição de classes do ES6
+- [ ] Usar herança prototipal nativa ou herança de classes do ES6
+</span>
+
+<span style="color: #EB6A95">
+
+### Qualidade do código
+- [x] Usar um Style Guide - apresentar o uso de pelo menos 10 regras do style escolhido (sugerido AirBnb)
+   - [x] Usar sintaxe literal para objetos
+   - [x] Usar sintaxe literal para arrays
+   - [x] Aspas simples para strings
+   - [x] Ponto para acessar atributos
+   - [x] Variaveis sempre no topo do escopo em que se encontram
+   - [x] Use === e !== ao invés de == e !=
+   - [x] linha em branco no final do arquivo
+   - [x] linha em branco após o final de cada declaração
+   - [x] ponto e vírgula ao final de cada declaração
+   - [x] Não use apenas um caracter, seja descritivo
+   - [x] Use camelCase quando for nomear objetos, funções e instâncias
+   - [x] Use PascalCase quando for nomear construtores ou classes.
+   - [x] Use um underscore _ como primeiro caracter em propriedades privadas
+- [X] Usar um lint - mostrar a correção de pelo menos 5 problemas informados pelo lint (sugerido JSHint - usar o arquivo .jshintrc disponível no moodle)
+- [x] Usar strict mode
+- [x] Usar Module Pattern
+- [x] Usar pasta assets e subpastas resources e libraries para organizar o código
+- [x] Usar let ou const ao invés de var
+- [x] Nomes de arquivos minúsculos e separados por hífen (dashed-case)
 
 ### Formulário
 - [x] Validação de formulário com onsubmit usando os métodos tradicionais
@@ -98,17 +114,6 @@
 - [ ] Manipulação de elemento de listagem, como checkbox, radio ou select
 - [ ] Acesso aos elementos de um formulário via hierarquia (caminho) de objetos, ou seja, array forms e elements
 
-### Objetos Nativos
-- [ ] Usar pelo menos 3 métodos de manipulação de array
-- [ ] Usar laço de repetição (for..in ou for..of ou forEach)
-- [ ] Usar pelo menos 3 métodos para manipulação de string
-- [x] String Template
-
-### Objetos
-- [x] Criar objeto usando função construtora ou notação literal
-- [x] Criar objetos a partir da definição de classes do ES6
-- [ ] Usar herança prototipal nativa ou herança de classes do ES6
-
 ### ~~Canvas~~
 - [ ] ~~Desenho de caminho ou arco~~
 - [ ] ~~Desenho de texto ou imagem~~
@@ -116,6 +121,10 @@
 ### ~~Animação~~
 - [ ] ~~Por meio da manipulação do vetor images~~
 - [ ] ~~Por meio da manipulação do canvas~~
+</span>
+
+
+<span style="color: #9EF7A3">
 
 ### jQuery
 - [x] Uso de seletores CSS - id, classe e tag
@@ -138,6 +147,7 @@
 - [x] Leitura e escrita de JSON
 - [ ] Implementação funcional (basta fazer funcionar uma requisição) do backend em ExpressJS na plataforma Node e requisições AJAX.
 
+</span>
 
 #### Checklist:
 
