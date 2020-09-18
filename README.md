@@ -28,7 +28,7 @@
 <div style="color: #8793F5">
 
 ### Caixas de Diálogo
-  - [x] prompt
+<p style="color: #8793F5"">  - [x] prompt </p>
   - [x] alert
   - [x] confirm
   
