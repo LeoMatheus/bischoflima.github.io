@@ -5,6 +5,7 @@ let tagSenha2 = document.querySelector('#senha2');
 let tagTelefone = document.querySelector('#phone');
 let cidade = document.querySelector('#cidade');
 let btnSalvar = document.querySelector('#salvar');
+let iconeSenha2 = document.getElementById('icone-senha2');
 
 let bd = new BDUsuario();
 
@@ -23,9 +24,27 @@ document.querySelector('#email').onkeypress = function validaCaracter(event) {
     }
 };
 
+let validarSenhas = (validaSenha) => {
+    'use strict';
+
+    if (validaSenha(tagSenha1.value, tagSenha2.value)) {
+        console.log('ira apresentar abaixo do input de senha "as senhas coincidem"');
+        iconeSenha2.style.color = '#388e3c';
+        tagSenha2.classList.remove('invalid');
+        tagSenha2.classList.add('valid');
+
+    } else {
+
+        alert('As senhas não coincidem!!\nOu o valor é inválido.');
+        iconeSenha2.style.color = '#ef5350';
+        tagSenha2.classList.remove('valid');
+        tagSenha2.classList.add('invalid');
+    }
+};
+
 tagSenha2.onblur = () => {
     'use strict';
-    let validaSenha = (senha1, senha2) => {
+    let confereSenhas = (senha1, senha2) => {
         if (senha1)
             if (senha2)
                 if (senha1 === senha2)
@@ -33,11 +52,7 @@ tagSenha2.onblur = () => {
         return false;
     };
 
-    if (validaSenha(tagSenha1.value, tagSenha2.value)) {
-        console.log('ira apresentar abaixo do input de senha "as senhas coincidem"');
-    } else {
-        alert('As senhas não coincidem!!\nOu o valor é inválido.');
-    }
+    validarSenhas(confereSenhas);
 
 };
 
@@ -46,8 +61,10 @@ let focoCidade = (elemento) => {
 
     let cidade = prompt('Qual o nome da sua cidade? ');
     btnSalvar.focus();
-    elemento.value = cidade.trim();
-    console.log(elemento.value);
+    if (cidade !== '' || cidade !== undefined || cidade !== null) {
+        elemento.value = cidade.trim();
+        console.log(elemento.value);
+    }
 };
 
 document.querySelector('#formulario').onsubmit = function (event) {
