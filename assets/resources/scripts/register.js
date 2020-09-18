@@ -56,7 +56,6 @@ document.querySelector('#formulario').onsubmit = function (event) {
     console.log(tagEmail.value, tagNome.value, tagSenha1.value, tagSenha2.value, tagTelefone.value);
 
 
-
     event.preventDefault();
 };
 
