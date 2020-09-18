@@ -43,7 +43,7 @@
 - [x] Função auto-executável
 - [x] Função com nome
 - [x] Função aninhada/local - declarar uma função dentro de outra
-- [ ] Passagem de uma função como parâmetro
+- [x] Passagem de uma função como parâmetro
 - [x] Função Flecha - Arrow Function
 
 ### Eventos
@@ -108,7 +108,7 @@
     - [ ] Customizar as mensagens nos balões de mensagem
     - [ ] Usar os atributos de validação dos inputs
     - [ ] Usar expressões regulares
-- [ ] Ler e escrever em elementos input com a propriedade value
+- [x] Ler e escrever em elementos input com a propriedade value
 - [ ] Alterar o conteúdo de elementos div ou p com a propriedade innerHTML ou textContent
 - [ ] Manipulação de elemento de listagem, como checkbox, radio ou select
 - [ ] Acesso aos elementos de um formulário via hierarquia (caminho) de objetos, ou seja, array forms e elements
