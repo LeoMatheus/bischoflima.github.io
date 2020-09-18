@@ -25,7 +25,7 @@
 
    Implementar os itens (tópicos) apresentados a seguir, com exceção dos itens riscados, os quais não foram vistos em sala de aula:
 
-<span style="color: #8793F5">
+<div style="color: #8793F5">
 
 ### Caixas de Diálogo
   - [x] prompt
@@ -77,9 +77,9 @@
 - [x] Criar objeto usando função construtora ou notação literal
 - [x] Criar objetos a partir da definição de classes do ES6
 - [ ] Usar herança prototipal nativa ou herança de classes do ES6
-</span>
+</div>
 
-<span style="color: #EB6A95">
+<div style="color: #EB6A95">
 
 ### Qualidade do código
 - [x] Usar um Style Guide - apresentar o uso de pelo menos 10 regras do style escolhido (sugerido AirBnb)
@@ -121,10 +121,10 @@
 ### ~~Animação~~
 - [ ] ~~Por meio da manipulação do vetor images~~
 - [ ] ~~Por meio da manipulação do canvas~~
-</span>
+</div>
 
 
-<span style="color: #9EF7A3">
+<div style="color: #9EF7A3">
 
 ### jQuery
 - [x] Uso de seletores CSS - id, classe e tag
@@ -147,7 +147,7 @@
 - [x] Leitura e escrita de JSON
 - [ ] Implementação funcional (basta fazer funcionar uma requisição) do backend em ExpressJS na plataforma Node e requisições AJAX.
 
-</span>
+</div>
 
 #### Checklist:
 
