@@ -63,13 +63,16 @@
 
 ### Tratadores de Evento
 - [x] Especificar o tratador de evento inline
-- [ ] Especificar o tratador de evento no carregamento da página HTML no modo tradicional - no onload
+- [x] Especificar o tratador de evento no carregamento da página HTML no modo tradicional - no onload
 - [x] Especificar o tratador de evento no carregamento da página HTML com a função addEventListener - no onload
 - [x] Usar o operador this em funções tratadoras de eventos.
 
 ### Objetos Nativos
 - [ ] Usar pelo menos 3 métodos de manipulação de array
 - [ ] Usar laço de repetição (for..in ou for..of ou forEach)
+   - [x] For...of
+   - [ ] For...in
+   - [ ] forEach
 - [ ] Usar pelo menos 3 métodos para manipulação de string
 - [x] String Template
 

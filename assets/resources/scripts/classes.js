@@ -5,14 +5,15 @@ class Pessoa {
 
 }
 class Usuario extends Pessoa {
+
     constructor(email, nome, senha, telefone, cep) {
         super(nome);
-        email = email;
-        senha = senha;
-        telefone = telefone;
-        cep = cep;
+        this.email = email;
+        this.senha = senha;
+        this.telefone = telefone;
+        this.cep = cep;
     }
-    
+
 }
 
 class BDUsuario {
@@ -30,16 +31,41 @@ class BDUsuario {
         return parseInt(localStorage.getItem('id_cadastro')) + 1;
     }
 
+    jaExiste(usuario) {
+        'use strict';
+
+        let usuarios = this.recuperarTodosRegistros();
+
+        for (let elemento of usuarios) {
+            if (elemento._nome === usuario._nome)
+                if (elemento.email === usuario.email)
+                    if (elemento.cep === usuario.cep)
+                        return true;
+        }
+
+        return false;
+    }
+
     gravar(usuario) {
         'use strict';
-        if (confirm('Deseja mesmo salvar os dados? ')) {
+
+        let confirmar = confirm('Deseja mesmo salvar os dados? ');
+
+        if (confirmar === true && !this.jaExiste(usuario)) {
             let id = this.getProximoId();
             localStorage.setItem('id_cadastro', id);
             localStorage.setItem(id, JSON.stringify(usuario));
+            return true;
+        } else {
+            alert('O usuário já existe!!');
+            return false;
         }
+
     }
 
     recuperarTodosRegistros() {
+        'use strict';
+
         let qtdRegistros = parseInt(localStorage.getItem('id_cadastro'));
         let usuarios = [];
 
