@@ -37,10 +37,8 @@ class BDUsuario {
         let usuarios = this.recuperarTodosRegistros();
 
         for (let elemento of usuarios) {
-            if (elemento._nome === usuario._nome)
-                if (elemento.email === usuario.email)
-                    if (elemento.cep === usuario.cep)
-                        return true;
+            if (elemento.email === usuario.email)
+                return true;
         }
 
         return false;
